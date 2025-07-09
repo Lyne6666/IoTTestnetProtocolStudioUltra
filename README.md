@@ -1,2 +1,1 @@
-# IoTTestnetProtocolStudioUltra
-Advanced IoTTestnetProtocolStudioUltra project
+.
